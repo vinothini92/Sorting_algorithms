@@ -4,7 +4,7 @@ Sorting_algorithms
 Implementation of Various sorting algorithms in python
 
 
-Given sorted list-A and another sorted list-b.Sort the both list to get A+B sorted list
+Given sorted list-A and another sorted list-B.Sort the both list to get A+B sorted list
 
 solution:
 since the both the list are sorted already,Bubble sort and insertion sort works fine.
