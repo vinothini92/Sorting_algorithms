@@ -3,6 +3,7 @@ def mergesort_iterative(nums):
     if length < 2:
         print "array is already in sorted order"
         return
+
     step = 1
     while step < length:
         i = 0
